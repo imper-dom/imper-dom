@@ -4,7 +4,7 @@ You can click the Preview link to take a look at your changes.
 --->
 # Hi there! :wave::sunglasses:
 - I am a programming enthusiast [:computer:](http://google.com) 
-- I am interested in python programming :snake: 
+- I am interested in Python programming :snake: 
 - And development processes in general :repeat:
 
 <a href="https://www.codewars.com/users/imper-dom"><img src="https://www.codewars.com/users/imper-dom/badges/micro"/></a>
