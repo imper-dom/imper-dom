@@ -1,5 +1,7 @@
 # Hi there! :wave::sunglasses:
-I am a programming enthusiast [:computer:](http://google.com) I am interested in python programming :snake: and development processes in general:repeat:
+- I am a programming enthusiast [:computer:](http://google.com) 
+- I am interested in python programming :snake: 
+- And development processes in general :repeat:
 
 <b>🛠️ I am using:</b>
 
