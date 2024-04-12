@@ -13,13 +13,14 @@ You can click the Preview link to take a look at your changes.
 
 |Main|
 |:-:|
-|<img src="https://img.shields.io/badge/Python-%2314354c.svg?logo=Python&logoColor=white&style=flat" alt="Python" /> <img src="https://img.shields.io/badge/Django-%23092e20.svg?logo=django&logoColor=white&style=flat" alt="Django" />|
+|<img src="https://img.shields.io/badge/Python-%2314354c.svg?logo=Python&logoColor=white&style=flat" alt="Python"/> <img src="https://img.shields.io/badge/Django-%23092e20.svg?logo=django&logoColor=white&style=flat" alt="Django"/>|
 |**Frontend**|
-|<img src="https://img.shields.io/badge/HTML5-%23e34f26.svg?logo=html5&logoColor=white&style=flat" alt="HTML5" /> <img src="https://img.shields.io/badge/CSS3-%231572b6.svg?logo=css3&logoColor=white&style=flat" alt="CSS3" /> <img src="https://img.shields.io/badge/Bootstrap-%237952b3.svg?logo=bootstrap&logoColor=white&style=flat" alt="Bootstrap" />|
+|<img src="https://img.shields.io/badge/HTML5-%23e34f26.svg?logo=html5&logoColor=white&style=flat" alt="HTML5"/> <img src="https://img.shields.io/badge/CSS3-%231572b6.svg?logo=css3&logoColor=white&style=flat" alt="CSS3"/> <img src="https://img.shields.io/badge/Bootstrap-%237952b3.svg?logo=bootstrap&logoColor=white&style=flat" alt="Bootstrap"/>|
 |**Databases**|
-|<img src="https://img.shields.io/badge/Postgres-%23336791.svg?logo=postgresql&logoColor=white&style=flat" alt="Postgres" />|
+|<img src="https://img.shields.io/badge/Postgres-%23336791.svg?logo=postgresql&logoColor=white&style=flat" alt="Postgres"/>|
 |**Other techologies and tools**|
-|<img src="https://img.shields.io/badge/VS%20Code-0078d7.svg?style=flat&logo=visual-studio-code&logoColor=white" alt="Visual Studio Code" /> <img src="https://img.shields.io/badge/Markdown-%23000000.svg?style=flat&logo=markdown&logoColor=white" alt="Markdown" /> <img src="https://img.shields.io/badge/ChatGPT-%23000000.svg?style=flat&logo=openai&logoColor=white" alt="ChatGPT" /> <img src="https://img.shields.io/badge/Linux-%23fcc624.svg?logo=linux&logoColor=white&style=flat" alt="Linux" /> <img src="https://img.shields.io/badge/git-%23d22128.svg?logo=git&logoColor=white&style=flat" alt="Git" /> <img src="https://img.shields.io/badge/Docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white" alt="Docker" /> <img src="https://img.shields.io/badge/aiogram 3-%2300ADD8.svg?style=flat&logo=telegram&logoColor=white" alt="aiogram 3" /> <img src="https://img.shields.io/badge/Selenium-%23009639.svg?style=flat&logo=selenium&logoColor=white" alt="Selenium" /> |
+|<img src="https://img.shields.io/badge/VS%20Code-0078d7.svg?style=flat&logo=visual-studio-code&logoColor=white" alt="Visual Studio Code"/> <img src="https://img.shields.io/badge/Markdown-%23000000.svg?style=flat&logo=markdown&logoColor=white" alt="Markdown"/> <img src="https://img.shields.io/badge/ChatGPT-%23000000.svg?style=flat&logo=openai&logoColor=white" alt="ChatGPT"/> <img src="https://img.shields.io/badge/Linux-%23fcc624.svg?logo=linux&logoColor=white&style=flat" alt="Linux"/> <img src="https://img.shields.io/badge/git-%23d22128.svg?logo=git&logoColor=white&style=flat" alt="Git"/> <img src="https://img.shields.io/badge/Docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white" alt="Docker"/> <img src="https://img.shields.io/badge/aiogram 3-%2300ADD8.svg?style=flat&logo=telegram&logoColor=white" alt="aiogram 3"/> <img src="https://img.shields.io/badge/Selenium-%23009639.svg?style=flat&logo=selenium&logoColor=white" alt="Selenium"/>|
+
 
 
 <!---
