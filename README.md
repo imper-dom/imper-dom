@@ -4,18 +4,18 @@ You can click the Preview link to take a look at your changes.
 --->
 <div align="center">
     <div>Hi there! :wave::sunglasses:</div>
-    <div> - I am a programming enthusiast :computer:
-    <div> - I am interested in Python programming :snake:</div> 
+    <div> - I am a programming enthusiast <a href="https://www.google.com">:computer:<a/>
+    <div> - I am interested in Python programming <a href="https://www.python.org">:snake:<a/></div> 
     <div> - And development processes in general :repeat:</div>
 <div/>
 
 <div>
   <div>:envelope: My Contacts <div/>
-  <a href="https://t.me/weleldev">
-    <img src="https://img.shields.io/badge/@weleldev-2CA5E0?style=flat&logo=telegram&logoColor=white" alt="@weleldev" />
+  <a href="https://t.me/AAAAA">
+    <img src="https://img.shields.io/badge/@aaaaa-2CA5E0?style=flat&logo=telegram&logoColor=white" alt="@weleldev" />
   </a> 
-  <a href="mailto:pavel.loginov.dev@gmail.com">
-      <img src="https://img.shields.io/badge/-pavel.loginov.dev@gmail.com-%2314354c.svg?style=flat&logo=gmail&logoColor=red" alt="pavel.loginov.dev@gmail.com" />
+  <a href="mailto:fdgdfgdgdgv@gmail.com">
+      <img src="https://img.shields.io/badge/fdgdfgdgdgv.dev@gmail.com-%2314354c.svg?style=flat&logo=gmail&logoColor=red" alt="pavel.loginov.dev@gmail.com" />
     </a>
 </div>
 
