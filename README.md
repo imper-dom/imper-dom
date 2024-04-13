@@ -19,28 +19,30 @@ You can click the Preview link to take a look at your changes.
   </a>
 </div>
 
+<br/>
+<br/>
 
 <div>
   <h2 align="center">🛠️ I am using:<h2/>
-  <div>Main:<div/>
+  <div><i>Main:</i><div/>
       <div>
         <img src="https://img.shields.io/badge/Python-yellow?logo=python">
         <img src="https://img.shields.io/badge/Django-%23092e20.svg?logo=django&logoColor=white&style=flat" alt="Django"/>
         <img alt="Static Badge" src="https://img.shields.io/badge/Flask-ffffff?logo=flask&labelColor=%23000000&color=000000">
       </div>
-  <div>Frontend:<div/>
+  <div><i>Frontend:</i><div/>
       <div>
         <img src="https://img.shields.io/badge/HTML5-%23e34f26.svg?logo=html5&logoColor=white&style=flat" alt="HTML5"/> 
         <img src="https://img.shields.io/badge/CSS3-%231572b6.svg?logo=css3&logoColor=white&style=flat" alt="CSS3"/> 
         <img <img src="https://img.shields.io/badge/SASS-8A2BE2?logo=sass"/> 
         <img src="https://img.shields.io/badge/Bootstrap-%237952b3.svg?logo=bootstrap&logoColor=white&style=flat" alt="Bootstrap"/>
       </div>
-  <div>Databases:<div/>
+  <div><i>Databases:</i><div/>
       <div>
         <img src="https://img.shields.io/badge/Postgres-%23336791.svg?logo=postgresql&logoColor=white&style=flat" alt="Postgres"/>
         <img src="https://img.shields.io/badge/SQLite-%23003B57?logo=sqlite">
       <div/>
-  <div>Other techologies and tools:<div/>
+  <div><i>Other techologies and tools:</i><div/>
       <div>
       <img src="https://img.shields.io/badge/Git-%23ffffff?logo=git&logoColor=%23F05032">
       <img src="https://img.shields.io/badge/GitHub-%23e5e5e5?logo=github&logoColor=%23181717">
