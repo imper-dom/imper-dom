@@ -2,15 +2,18 @@
 imper-dom/imper-dom is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋😎💻;" />
+</h1>
        
 <div align="center">
-    <h1>Hi there! :wave::sunglasses:</h1>
-    <div> - I am a programming enthusiast <a href="https://www.google.com">:computer:<a/>
+    <div> - I am a programming enthusiast <a href="https://www.google.com">:bulb:<a/>
     <div> - I am interested in Python programming <a href="https://www.python.org">:snake:<a/></div> 
     <div> - And development processes in general :repeat:</div>
 <div/>
 
-## :envelope: My Contacts:
+## :email: My Contacts:
 <div>
   <a href="https://t.me/a3333333">
     <img src="https://img.shields.io/badge/@aaaaa-2CA5E0?style=flat&logo=telegram&logoColor=white" alt="@weleldev" />
