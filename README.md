@@ -5,9 +5,9 @@
 <img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="200" align="right"/> 
 
 <p align="left">
-✔️ I am a Python programming enthusiast <a href="https://www.google.com" target="_blank"> :bulb:<a/> <br>
-✔️ I am interested in backend development<a href="https://www.python.org" target="_blank"> :snake:<a/> <br>
-✔️ And development processes in general <a href="https://www.python.org" target="_blank"> :repeat:
+✔️ I am a Python programming enthusiast :snake:<a/> <br>
+✔️ I am interested in backend development :floppy_disk:<a/> <br>
+✔️ And development processes in general :repeat:
 <p/>
 
 <p align="left">:email: My Contacts:<p/>
