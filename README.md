@@ -2,7 +2,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋😎💻;" />
 </h1>  
 
-<img src="https://media.giphy.com/media/jdPMeyv9rn0hZHh8n9/giphy.gif" width="200" align="right"/>
+<img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="200" align="right"/> 
 
 <p align="left">
 ✔️ I am a Python programming enthusiast <a href="https://www.google.com" target="_blank"> :bulb:<a/> <br>
